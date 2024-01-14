@@ -27,6 +27,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/evert/aospa_evert.mk \
     $(LOCAL_DIR)/fuxi/aospa_fuxi.mk \
     $(LOCAL_DIR)/ishtar/aospa_ishtar.mk \
+    $(LOCAL_DIR)/ginkgo/aospa_ginkgo.mk \
     $(LOCAL_DIR)/juice/aospa_juice.mk \
     $(LOCAL_DIR)/lahaina/aospa_lahaina.mk \
     $(LOCAL_DIR)/lake/aospa_lake.mk \
@@ -78,6 +79,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_evert-userdebug \
     aospa_fuxi-userdebug \
     aospa_ishtar-userdebug \
+    aospa_ginkgo-userdebug \
     aospa_juice-userdebug \
     aospa_lahaina-userdebug \
     aospa_lake-userdebug \
