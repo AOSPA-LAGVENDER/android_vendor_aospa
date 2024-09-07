@@ -15,6 +15,7 @@
 # Product Makefiles
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
+    $(LOCAL_DIR)/aljeter/aospa_aljeter.mk \
     $(LOCAL_DIR)/apollo/aospa_apollo.mk \
     $(LOCAL_DIR)/beckham/aospa_beckham.mk \
     $(LOCAL_DIR)/beryllium/aospa_beryllium.mk \
@@ -68,6 +69,7 @@ PRODUCT_MAKEFILES += \
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
     aospa_alioth-userdebug \
+    aospa_aljeter-userdebug \
     aospa_apollo-userdebug \
     aospa_beckham-userdebug \
     aospa_beryllium-userdebug \
