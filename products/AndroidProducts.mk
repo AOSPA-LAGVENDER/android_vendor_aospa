@@ -24,6 +24,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/bluejay/aospa_bluejay.mk \
     $(LOCAL_DIR)/cheetah/aospa_cheetah.mk \
     $(LOCAL_DIR)/davinci/aospa_davinci.mk \
+    $(LOCAL_DIR)/dipper/aospa_dipper.mk \
     $(LOCAL_DIR)/dubai/aospa_dubai.mk \
     $(LOCAL_DIR)/evert/aospa_evert.mk \
     $(LOCAL_DIR)/fuxi/aospa_fuxi.mk \
@@ -78,6 +79,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_bluejay-userdebug \
     aospa_cheetah-userdebug \
     aospa_davinci-userdebug \
+    aospa_dipper-userdebug \
     aospa_dubai-userdebug \
     aospa_evert-userdebug \
     aospa_fuxi-userdebug \
